@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hello! My name is Luiz, I am a Systems Analysis and Development student and I am currently in the 5th semester of the course. I have a great passion for technology and programming, and I am always looking to learn new skills to improve my knowledge in the area.<br><br>In addition to academic studies, I am also taking an English course to improve my communication skills and open up new opportunities in the global job market. I have experience developing with Java and React, and I am always exploring new technologies and frameworks.</p>
+<p align="left">Hello! My name is Luiz, I graduated in Systems Analysis and Development. I have a great passion for technology and programming, and I am always looking to learn new skills to improve my knowledge in the area.<br><br>In addition to academic studies, I am also taking an English course to improve my communication skills and open up new opportunities in the global job market. I have experience developing with Java and React, and I am always exploring new technologies and frameworks.</p>
 
 ###
 
